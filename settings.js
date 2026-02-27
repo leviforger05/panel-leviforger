@@ -52,8 +52,8 @@ module.exports = {
 
   // Pterodactyl Config
   PTERODACTYL: {
-    DOMAIN: "https://leviforger.wibusoft.my.id",
-    API_KEY: "ptla_ChMKJH3RmL231OToaYxoDtOmBYFpsBlCEw2rU6CriI6",
+    DOMAIN: "https://leviforger.go.shopryzen.my.id",
+    API_KEY: "ptla_IbA5WUm9YICsuqjXUJvysl707iWmIec7GS57nlffssM",
     NEST_ID: 5,
     EGG_ID: 15,
     LOCATION_ID: 1
